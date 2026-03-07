@@ -1,7 +1,7 @@
 ## Oi, eu sou Bruna Pereira 👋
 
 - 🏍️ Motogirl em transição de carreira 💻
-- 🌱 Estudando Quality Assurance
+- 🤖 Estudando Automação Industrial
 - 📫 Contate-me pelo e-mail: brunafpereira15@gmail.com
 - 😄 Pronouns: ela/dela
 
